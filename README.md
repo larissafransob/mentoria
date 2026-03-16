@@ -1,3 +1,6 @@
+## Mentoria
+Projeto desenvolvido com orientação de @arteweyl
+
 Passo a passo realizado
 1. Descrição do Dataset
 O dataset utilizado neste projeto contém aproximadamente 50.000 registros e 13 variáveis relacionadas a transações de e-commerce.
