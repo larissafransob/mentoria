@@ -1,5 +1,5 @@
 ## Mentoria
-Projeto desenvolvido com orientação de @arteweyl
+Projeto desenvolvido com orientação de Artemísia Weyl @arteweyl
 
 Passo a passo realizado
 1. Descrição do Dataset
